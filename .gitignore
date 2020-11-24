@@ -1,0 +1,6 @@
+
+Dataset/*
+Grafico_rede/*
+*.hdf5
+*.h5
+.vscode/settings.json
